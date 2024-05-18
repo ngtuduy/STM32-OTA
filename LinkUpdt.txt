@@ -1,5 +1,5 @@
 {
-  "link": "https://raw.githubusercontent.com/ngtuduy/STM32-OTA/build/Blink411.bin",  
+  "link": "https://raw.githubusercontent.com/ngtuduy/STM32-OTA/main/build/Blink411.bin",  
   "Mandatory": true,
   "sw" :3.0
   }
